@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Bruno AMS and I'm a backend developer from Brazil.</h2>
-
 ###
 
 <br clear="both">
@@ -50,10 +48,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jutrhnwvu7xrcythwp8f6zb6w">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jutrhnwvu7xrcythwp8f6zb6w)
 
 ###
